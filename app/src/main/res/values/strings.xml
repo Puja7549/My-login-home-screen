@@ -5,4 +5,6 @@
     <string name="login">Login</string>
     <string name="username">Username</string>
     <string name="Home_page">Home Page</string>
+    <string name="Signout">SignOut</string>
+    <string name="signout">Signout</string>
 </resources>
